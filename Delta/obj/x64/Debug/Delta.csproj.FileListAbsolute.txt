@@ -1,0 +1,15 @@
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\bin\x64\Debug\Delta.exe.config
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\bin\x64\Debug\Delta.exe
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\bin\x64\Debug\Delta.pdb
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.csprojAssemblyReference.cache
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.Form1.resources
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.Form2.resources
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.Form3.resources
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.Properties.Resources.resources
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.SeriesControl.resources
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.SpreadsheetControl.resources
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.ViewControl.resources
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.csproj.GenerateResource.cache
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.csproj.CoreCompileInputs.cache
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.exe
+C:\Users\fran_\Documents\Subtlebit\DELTA\Delta\Delta\obj\x64\Debug\Delta.pdb

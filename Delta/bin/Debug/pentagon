@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<Archivo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FilePath>C:\Users\fran_\Desktop\pentagon.dpw</FilePath>
+  <FileName>pentagon</FileName>
+  <LastId>2</LastId>
+  <Options>
+    <DisplayStyle>Rectangle</DisplayStyle>
+    <GridColor>-8355712</GridColor>
+    <GridStyle>Dashed</GridStyle>
+    <GridSpacing>10</GridSpacing>
+    <TickVisible>true</TickVisible>
+    <LegendVisible>true</LegendVisible>
+    <LegendLocation>
+      <X>20</X>
+      <Y>50</Y>
+    </LegendLocation>
+    <CompoundA>A</CompoundA>
+    <CompoundB>B</CompoundB>
+    <CompoundC>C</CompoundC>
+    <CompoundTextLocation>Side</CompoundTextLocation>
+    <FontFamily>Times New Roman</FontFamily>
+    <FontSize>10</FontSize>
+    <BackgroundColor />
+    <BackgroundStyle>Transparent</BackgroundStyle>
+  </Options>
+  <Series>
+    <Serie>
+      <Id>1</Id>
+      <zIndex>1</zIndex>
+      <Points>
+        <PointF>
+          <X>0.5343772</X>
+          <Y>0.257244349</Y>
+        </PointF>
+        <PointF>
+          <X>0.39895612</X>
+          <Y>0.168584079</Y>
+        </PointF>
+        <PointF>
+          <X>0.376385957</X>
+          <Y>0.487724155</Y>
+        </PointF>
+        <PointF>
+          <X>0.161969259</X>
+          <Y>0.502087355</Y>
+        </PointF>
+        <PointF>
+          <X>0.167611808</X>
+          <Y>0.357555062</Y>
+        </PointF>
+      </Points>
+      <ReferencePoints />
+      <color>-16777088</color>
+      <size>8</size>
+      <name>NewSerie1</name>
+      <type>point</type>
+      <style>cuadrado_fill</style>
+      <visible>true</visible>
+      <displayInLeyend>true</displayInLeyend>
+    </Serie>
+  </Series>
+</Archivo>/visible>
+      <displayInLeyend>true</displayInLeyend>
+    </Serie>
+    <Serie>
+      <Id>2</Id>
+      <zIndex>2</zIndex>
+      <Points />
+      <ReferencePoints />
+      <color>-65281</color>
+      <size>3</size>
+      <name>NewSerie2</name>
+      <type>point</type>
+      <style>circulo</style>
+      <visible>true</visible>
+      <displayInLeyend>true</displayInLeyend>
+    </Serie>
+  </Series>
+</Archivo>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Archivo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FilePath>C:\Users\fran_\Desktop\caca.dpw</FilePath>
+  <FileName>caca</FileName>
+  <LastId>2</LastId>
+  <Options>
+    <DisplayStyle>Rectangle</DisplayStyle>
+    <GridColor />
+    <GridStyle>Dashed</GridStyle>
+    <GridSpacing>10</GridSpacing>
+    <TickVisible>true</TickVisible>
+    <LegendVisible>true</LegendVisible>
+    <LegendLocation>
+      <X>20</X>
+      <Y>50</Y>
+    </LegendLocation>
+    <CompoundA>A</CompoundA>
+    <CompoundB>B</CompoundB>
+    <CompoundC>C</CompoundC>
+    <CompoundTextLocation>Side</CompoundTextLocation>
+    <FontFamily>Times New Roman</FontFamily>
+    <FontSize>10</FontSize>
+    <BackgroundColor />
+    <BackgroundStyle>Transparent</BackgroundStyle>
+  </Options>
+  <Series>
+    <Serie>
+      <Id>1</Id>
+      <zIndex>1</zIndex>
+      <Points>
+        <PointF>
+          <X>0.4835943</X>
+          <Y>0.09694548</Y>
+        </PointF>
+        <PointF>
+          <X>0.274820149</X>
+          <Y>0.12314716</Y>
+        </PointF>
+        <PointF>
+          <X>0.201467067</X>
+          <Y>0.6142763</Y>
+        </PointF>
+      </Points>
+      <ReferencePoints />
+      <color />
+      <size>3</size>
+      <name>NewSerie1</name>
+      <type>point</type>
+      <style>circulo</style>
+      <visible>true</visible>
+      <displayInLeyend>true</displayInLeyend>
+    </Serie>
+  </Series>
+</Archivo>
